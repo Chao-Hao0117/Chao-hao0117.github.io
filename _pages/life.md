@@ -25,6 +25,6 @@ My main hobby is hiking. Qingdao's landscape, where the mountains meet the sea, 
     * I'm a coffee enthusiast who loves latte art (even though my results are often terrible!).
     * I also enjoy making traditional Chinese snacks from scratch, like homemade Tofu Pudding (豆腐脑) and Chinese Rice Wine (米酒).
 
-![Qingdao Seaside](/images/qingdao.jpg)
+ <img src="/images/pashan.jpg" width="400">   <img src="/images/hezhao.jpg" width="400">     
 
-![My wife and I](/images/hezhao.jpg)
+  <img src="/images/qingdao.jpg" width="400"> 
