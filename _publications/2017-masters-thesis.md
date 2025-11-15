@@ -6,7 +6,7 @@
 title: "Calculation of the Beta Coefficient of Commercial Banks Based on VaR"
 collection: publications
 type: 'Thesis'  <-- 【【【添加这一行！】】】
-permalink: /publication/2017-masters-thesis
+permalink: /publication/your-masters-thesis
 excerpt: 'School Honors Thesis (Master of Economics)'
 date: 2017-06-01
 venue: 'Capital University of Economics and Business'
