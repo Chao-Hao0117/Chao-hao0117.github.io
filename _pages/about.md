@@ -13,14 +13,13 @@ author_profile: true
 
 ## Biography
 
-Welcome! Now I am a strategy manager in Qingdao Haike Holdings Co., Ltd. I have strong background in **econometrics, asset pricing, and financial engineering**. My research employs **empirical methods and financial modeling** to address questions in asset valuation and market behavior. Professionally, I have applied these skills in securities analysis, investment cultivation, and strategic decision-making.
+Welcome! Now I am a strategy manager in Qingdao Haike Holdings Co., Ltd. I have strong background in **econometrics, asset pricing, and financial engineering**. 
 
-## Research Interests
-
-My primary research interests include (but are not limited to):
-* **Econometrics** 
-* **Asset Pricing** 
-* **Financial Engineering** 
+Professionally, I have:
+- Facilitated **RMB 1+ billion in investment funds** for SME cultivation
+- Led financial due diligence for **IPO projects** and strategic investments  
+- Developed **predictive financial models** using Stata, R, and MATLAB
+- Managed full-cycle **quantitative research projects** from data collection to empirical validation
 
 ## Education
 
@@ -33,6 +32,13 @@ My primary research interests include (but are not limited to):
 *Bachelor of Economics in Finance Engineering* | 2011–2015  
 - GPA: 88.41/100 (Ranked in top 5%)
 - Core Courses: Advanced Mathematics, Linear Algebra, Econometrics, Mathematical Finance, Time Series Analysis
+
+## Research Interests
+
+My primary research interests include (but are not limited to):
+* **Econometrics** 
+* **Asset Pricing** 
+* **Financial Engineering** 
 
 ## Technical Skills
 
