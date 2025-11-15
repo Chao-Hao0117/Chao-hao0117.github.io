@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "A Comparative Study on the Value Relevance of Earnings per Share and Comprehensive Income per Share: Evidence from Listed Real Estate Companies in China"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2016-paper-1
+excerpt: 'Published in *Friends of Accounting*. (in Chinese) [Peking University Core Journal]'
+date: 2016-11-01
+venue: 'Friends of Accounting'
+paperurl: '/files/your-paper-1-filename.pdf'
+citation: 'Liang, M., Jiang, X., & Chao, H. (2016). &quot;A Comparative Study on the Value Relevance of Earnings per Share and Comprehensive Income per Share: Evidence from Listed Real Estate Companies in China.&quot; <i>Friends of Accounting</i>, (23), 14-17.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
