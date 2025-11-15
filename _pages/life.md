@@ -16,7 +16,6 @@ Currently, I live here with my wife (who is also a Ph.I'm. candidate), our cat, 
 ### Hiking
 My main hobby is hiking. Qingdao's landscape, where the mountains meet the sea, is exceptional. We try to explore a new trail almost every weekend.
 
-*(In the line above, change `wife-and-me.jpg` to the filename of your uploaded photo together)*
 
 ### Other Interests
 
