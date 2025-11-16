@@ -11,8 +11,6 @@ author_profile: true
 
 `Asset Pricing` `Financial Engineering` `Empirical Corporate Finance` `Valuation`
 
-## Biography
-
 Welcome! I am a Strategy Manager at Qingdao Haike Holdings, where my work focuses on the intersection of corporate finance and public policy. My role gives me a frontline view of how firms make strategic decisions—from investment to IPOs—in response to complex market dynamics and government initiatives. 
 
 Professionally, I have:
@@ -23,7 +21,7 @@ Professionally, I have:
 
 This hands-on experience has been invaluable, but it has also consistently highlighted the gap between abstract financial models and real-world market behavior. I've found myself increasingly drawn to the "why" behind market frictions and asset valuation puzzles that my professional tools can identify but not fully explain. This curiosity—this need to move from observing these phenomena to modeling them—is the primary driver behind my pursuit of a PhD. I am now actively seeking **doctoral opportunities** to develop the rigorous empirical tools needed to answer these deeper questions.
 
-## Research Interests
+
 My research interests are centered on the empirical analysis of financial markets:
 
 - **Econometrics**
