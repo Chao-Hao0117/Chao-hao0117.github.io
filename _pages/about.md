@@ -16,7 +16,7 @@ Welcome! My name is Hao Chao(Chinese name: 晁昊). You can call me Howie. I am 
 Professionally, I have:
 - Facilitated **RMB 1+ billion** in investment funds for SME cultivation
 - Participated financial due diligence for **IPO projects and strategic investments**
-- Managed the organization of international conferences to facilitate B2B negotiations and foster corporate partnerships.
+- Managed the organization of international conferences to facilitate B2B negotiations and initiate investment cooperation projects.
 - Managed **full-cycle quantitative research projects** from data collection to empirical validation
 
 This hands-on experience has been invaluable, but it has also consistently highlighted the gap between abstract financial models and real-world market behavior. I've found myself increasingly drawn to the "why" behind market frictions and asset valuation puzzles that my professional tools can identify but not fully explain. This curiosity—this need to move from observing these phenomena to modeling them—is the primary driver behind my pursuit of a PhD. I am now actively seeking **doctoral opportunities** to develop the rigorous empirical tools needed to answer these deeper questions.
